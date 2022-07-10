@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "@kubernetes/client-node": "0.10.2",
-    "@sentry/electron": "^0.17.3",
+    "@sentry/electron": "^1.0.0",
     "@sentry/integrations": "^5.3.1",
     "clone-deep": "^4.0.1",
     "deepmerge": "^4.0.0",
@@ -93,7 +93,7 @@
     "electron-updater": "^4.0.6",
     "killable": "^1.0.1",
     "lodash": "^4.17.15",
-    "shell-path": "^2.1.0",
+    "shell-path": "^3.0.0",
     "vue": "^2.6.10",
     "vue-click-outside": "^1.0.7",
     "vue-electron": "^1.0.6",
